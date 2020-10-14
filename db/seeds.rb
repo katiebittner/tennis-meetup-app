@@ -35,7 +35,8 @@ waluigi = Player.create(
   skill: "advanced",
   gender: "male",
   phone: "123-456-7890",
-  court: wimbledon
+  court: wimbledon,
+  imgurl: "https://www.mariowiki.com/images/6/67/MTA_Models_Waluigi.png"
 )
 
 mario = Player.create(
@@ -44,7 +45,8 @@ mario = Player.create(
   skill: "beginner",
   gender: "male",
   phone: "123-456-7890",
-  court: arthur_ash
+  court: arthur_ash,
+  imgurl: "https://www.mariowiki.com/images/4/4f/MTA_Models_Mario.png"
 )
 
 peach = Player.create(
@@ -53,7 +55,8 @@ peach = Player.create(
   skill: "intermediate",
   gender: "female",
   phone: "123-456-7890",
-  court: roland_garros
+  court: roland_garros,
+  imgurl: "https://www.mariowiki.com/images/6/64/MTA_Models_Peach.png"
 )
 
 shyguy = Player.create(
@@ -62,7 +65,8 @@ shyguy = Player.create(
   skill: "intermediate",
   gender: "male",
   phone: "123-456-7890",
-  court: wimbledon
+  court: wimbledon,
+  imgurl: "https://www.mariowiki.com/images/1/1e/MTA_Models_ShyGuy.png"
 )
 
 
