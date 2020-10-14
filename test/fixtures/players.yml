@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  age: 1
+  skill: MyString
+  gender: MyString
+  phone: MyString
+  home_court: one
+
+two:
+  name: MyString
+  age: 1
+  skill: MyString
+  gender: MyString
+  phone: MyString
+  home_court: two
