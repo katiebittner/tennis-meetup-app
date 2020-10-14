@@ -65,5 +65,4 @@ shyguy = Player.create(
   court: wimbledon
 )
 
-binding.pry
-0
+
